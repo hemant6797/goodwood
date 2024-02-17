@@ -1,0 +1,13 @@
+.product-card {
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white */
+}
+
+.product-card:hover {
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.product-card .card-body {
+    padding: 20px; /* Add padding to the card body */
+}

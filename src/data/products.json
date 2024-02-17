@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Plywood",
+        "description": "High-quality plywood for various applications.",
+        "imageUrl": "../goodwoodImg/Bedroom/bed1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hardware",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/Bedroom/bed1.jpg"
+    }
+]

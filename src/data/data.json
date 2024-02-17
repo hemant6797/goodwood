@@ -1,0 +1,11 @@
+{
+    "scrollingImages": [
+        "/images/logo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe83dGOE3Me3XNrodNYP5iLHe3jlcKzn0XlT-KWw_DogO1BEcFZpP6sT8P64BM5kkxV2E&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VFEylm_hkyQsmUI96pHHohE3fozZf3Vc0A&usqp=CAU"
+    ],
+    "content": {
+        "heading": "Welcome to Good Wood",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla auctor sem vitae urna posuere rhoncus. Quisque dictum libero ligula, at malesuada sem efficitur a."
+    }
+}

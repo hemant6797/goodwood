@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Almirah",
+        "description": "High-quality Almirah for various applications.",
+        "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/005/331/707/small/letter-al-logo-creative-modern-design-image-vector.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hardware",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VFEylm_hkyQsmUI96pHHohE3fozZf3Vc0A&usqp=CAU"
+    }
+]
