@@ -25,8 +25,8 @@ const styles = {
         maxWidth: '300px',
     },
     image: {
-        width: '100%',
-        height: 'auto',
+        width: '200px',
+        height: '250px',
         marginBottom: '1rem',
         borderRadius: '5px',
     },
