@@ -3,12 +3,122 @@
         "id": 1,
         "name": "Almirah",
         "description": "High-quality Almirah for various applications.",
-        "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/005/331/707/small/letter-al-logo-creative-modern-design-image-vector.jpg"
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0058.jpg"
     },
     {
         "id": 2,
-        "name": "Hardware",
+        "name": "Almirah B&W",
         "description": "Various hardware items for construction and DIY projects.",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VFEylm_hkyQsmUI96pHHohE3fozZf3Vc0A&usqp=CAU"
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240208-WA0090.jpg"
     }
+    ,{
+        "id": 3 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0013.jpg"
+    }
+    ,{
+        "id": 4  ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0015.jpg"
+    }
+    ,{
+        "id": 5 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0019.jpg"
+    }
+    ,{
+        "id":  6,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0020.jpg"
+    }
+    ,{
+        "id": 7 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0059.jpg"
+    }
+    ,{
+        "id": 8 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0022.jpg"
+    }
+    ,{
+        "id": 9 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0058.jpg"
+    }
+    ,{
+        "id": 10 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0026.jpg"
+    }
+
+    ,{
+        "id": 11 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0072.jpg"
+    }
+    ,{
+        "id": 12 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0031.jpg"
+    }
+    ,{
+        "id": 13 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0091.jpg"
+    }
+    ,{
+        "id": 14 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0039.jpg"
+    }
+    ,{
+        "id": 15 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0042.jpg"
+    }
+    ,{
+        "id": 16 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0053.jpg"
+    }
+    ,{
+        "id": 17 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0055.jpg"
+    }
+    ,{
+        "id": 18 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0096.jpg"
+    }
+    ,{
+        "id": 19 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0058.jpg"
+    }
+    ,{
+        "id": 20 ,
+        "name": "Almirah B&W",
+        "description": "Various hardware items for construction and DIY projects.",
+        "imageUrl": "../goodwoodImg/almirah/IMG-20240209-WA0059.jpg"
+    }
+
 ]

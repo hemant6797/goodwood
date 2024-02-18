@@ -1,14 +1,14 @@
 import React from 'react';
 import ProductCard from './ProductCard'; // Import the ProductCard component
-// import almirahData from './Almirah.json'; // Import data for almirah products
-import productsData from '../../../data/products.json';
+ import almirahData from './Almirah.json'; // Import data for almirah products
+//import productsData from '../../../data/products.json';
 
 const Almirah = () => {
     return (
         <div>
             <h1>Almirah</h1>
             <div style={styles.cardContainer}>
-                {productsData.map(product => (
+                {almirahData.map(product => (
                     <ProductCard
                         key={product.id}
                         productName={product.name}
