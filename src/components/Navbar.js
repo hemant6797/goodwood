@@ -14,7 +14,7 @@ const NavbarComponent = () => {
                     className="d-inline-block align-top"
                     alt="React Logo"
                 />
-                Reacts
+                GoodWood
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarNav" />
             <Navbar.Collapse id="navbarNav">
