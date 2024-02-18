@@ -26,7 +26,7 @@ const styles = {
     },
     image: {
         width: '100%',
-        height: 'auto',
+        height: '250px',
         marginBottom: '1rem',
         borderRadius: '5px',
     },
